@@ -1,6 +1,6 @@
 [package]
 name = "mutation-monitor"
-description = "Watch your Rust for mutations"
+description = "Observe mutations of a value and generate a callback when the value has mutated"
 version = "0.1.0"
 edition = "2021"
 author = "umikoio"

@@ -22,7 +22,7 @@
     Project: Mutation Monitor (https://github.com/umikoio/mutation-monitor)
 */
 
-use std::cell::{ Cell, RefCell, RefMut };
+use std::cell::{Cell, RefCell, RefMut};
 use std::fmt;
 
 /// Monitor mutations via a struct to contain the data

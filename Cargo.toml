@@ -5,11 +5,8 @@ version = "0.1.0"
 edition = "2021"
 author = "umikoio"
 license = "MIT"
-categories = ["development-tools", "data-structures"]
-keywords = ["mutate"]
+categories = ["Rust Patterns", "Caching"]
+keywords = ["mutate", "api", "rust", "utility", "logging"]
 repository = "https://github.com/umikoio/mutation-monitor"
 
 [dependencies]
-
-[lib]
-path = "src/lib.rs"

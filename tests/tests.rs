@@ -2,7 +2,7 @@
 mod tests {
     use std::cell::RefCell;
     use std::rc::Rc;
-    use mutation_monitor::{ Mutate, OnMutate };
+    use mutation_monitor::{Mutate, OnMutate};
 
     #[test]
     fn notifies_on_change() {

@@ -1,0 +1,15 @@
+[package]
+name = "mutation-monitor"
+description = "Watch your Rust for mutations"
+version = "0.1.0"
+edition = "2021"
+author = "umikoio"
+license = "MIT"
+categories = ["development-tools", "data-structures"]
+keywords = ["mutate"]
+repository = "https://github.com/umikoio/mutation-monitor"
+
+[dependencies]
+
+[lib]
+path = "src/lib.rs"

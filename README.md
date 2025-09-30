@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="25%" src="assets/logo.png" />
+  <!-- <img width="25%" src="#" /> -->
   <h1>Mutation Monitor</h1>
   <p>Observe mutations of a value and generate a callback when the value has mutated.</p>
 </div>
